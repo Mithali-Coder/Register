@@ -24,3 +24,13 @@ A full-stack registration form built with Angular, a .NET Web API and SQL Server
 3. From the `RegistrationAPI` folder, create the database and start the API:
 
 
+## Project Screenshots
+
+### Frontend
+![Frontend Registration Form](images/Frontend.png)
+
+### SQL Server Database
+![SQL Server Database](images/SSMS.png)
+
+### Swagger API
+![Swagger API](images/Swagger.png)
