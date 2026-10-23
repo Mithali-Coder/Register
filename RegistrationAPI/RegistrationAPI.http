@@ -1,0 +1,17 @@
+
+
+@RegistrationAPI_HostAddress = https://localhost:7194
+
+POST {{RegistrationAPI_HostAddress}}/api/Registrations
+Content-Type: application/json
+
+{
+  "fullName": "Test User",
+  "address": "Test Address",
+  "gender": "Male",
+  "cricket": true,
+  "cooking": false,
+  "swimming": true,
+  "country": "India",
+  "email": "test@example.com"
+}
