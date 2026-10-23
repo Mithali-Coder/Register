@@ -26,11 +26,17 @@ A full-stack registration form built with Angular, a .NET Web API and SQL Server
 
 ## Project Screenshots
 
-### Frontend
-![Frontend Registration Form](images/Frontend.png)
+### 1. Frontend Registration Form
+![Frontend Registration Form](images/Frontend.jpg)
 
-### SQL Server Database
-![SQL Server Database](images/SSMS.png)
+### 2. SQL Server Management Studio
+![SQL Server Management Studio](images/SSMS.jpg)
 
-### Swagger API
-![Swagger API](images/Swagger.png)
+### 3. SQL Server Database
+![SQL Server Database](images/SSMS_1.jpg)
+
+### 4. Swagger API
+![Swagger API](images/Swagger.jpg)
+
+### 5. Swagger API - Additional Screenshot
+![Swagger API Additional Screenshot](images/Swagger_1.jpg)
